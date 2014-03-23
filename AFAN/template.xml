@@ -65,7 +65,7 @@
 			<AcquisitionOfMagicalAgent subtype="CruelRetribution">
 
 </AcquisitionOfMagicalAgent>
-			<Return>
+			<Return></Return>
  	<Wedding subtype="Wedding">
   </Wedding>
 			<Epilogue>
@@ -1440,5 +1440,5 @@ OCR page 131
 Увидал коpaбeльщик мальчика, жалко ему стало, взял его к себе, расспросил про все и обеща
 </Transference>
 </Move>
-</folktale>
-</corpus>
+</Folktale>
+</Corpus>
