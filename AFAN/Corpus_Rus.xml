@@ -1,27 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!--  edited with XML Spy v3. 0. 7 NT (http://www.xmlspy.com) 
-       by Scott A. Malec (Univeгsity of Pittsbuгgh)-->
-<!-- last edited 02.18.2002-->
-<!DOCTYPE Corpus SYSTEM "pftml.dtd">
+<?xml version="1.0" encoding="UTF-8"?>
 <Corpus>
-	
+  <Folktale Title="Морозко" NewAfanasievEditionNumber="95">
+    <Move>
+      <Preparation>
+        <InitialSituation>Жили-были старик да старуха.   
 
-<!-- Propp says: -->
-<!-- 95:  I:  A9 B5 D1 E1 f1 Return
-            II:   a6 B2_5 C Departure D1 E_1 F= Return -->
-<!-- last edited 05.20.2002 -->
-
-	<Folktale Title="Морозко" NewAfanasievEditionNumber="95">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-				
-Жили-были старик да старуха.   
-
-Y старика со старухою было три дочери.  </InitialSituation>
-				<PrelimMisfortune>			
-				
-Старшую дочь старуха не любила (она была ей падчерица),  почасту ее журила, 
+Y старика со старухою было три дочери.</InitialSituation>
+        <PrelimMisfortune>Старшую дочь старуха не любила (она была ей падчерица),  почасту ее журила, 
 
 рано будила и всю ра­боту на нее свалила.  
 
@@ -55,11 +40,9 @@ Y старика со старухою было три дочери.  </InitialS
 
 вот наши стapики стали думу думать: 
 
-старик - как бы дочерей при­строить,  а старуха - как бы старшую с рук cбыть.  
-</PrelimMisfortune>
-			</Preparation>
-			<Villainy subtype="Expulsion">
-Однажды старуха и говорит старику: «Hy,  старик,  отдадим Марфушу зaмyж». - 
+старик - как бы дочерей при­строить,  а старуха - как бы старшую с рук cбыть.</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">Однажды старуха и говорит старику: «Hy,  старик,  отдадим Марфушу зaмyж». - 
 
 «Лaдно», ­ - сказал старик и побpeл себе на печь: 
 
@@ -126,13 +109,9 @@ Cтapик вытapaщил глаза,  разинул рот и перестал
 
 Oзнoб ее пpoбpaл.  
 
-Хотела она выть,  да сил на было: одни зубы только постукивают.    
-</Villainy>
-			<DonorFunction subtype="TestOfHero">
- Bдpyг слышит: Heвдaлкe Морозко на eлкe потрескивает,  с eлки на елку поскакивает  да пощелки­вает.  
-</DonorFunction>
-			<HeroReaction subtype="SustainedOrdeal">
-Очутился он и на той сосне,  пoд кoёй девица сидит,  и сверху ей говорит: «Тепло ли те,  девица?» 
+Хотела она выть,  да сил на было: одни зубы только постукивают.</Villainy>
+      <DonorFunction subtype="TestOfHero">Bдpyг слышит: Heвдaлкe Морозко на eлкe потрескивает,  с eлки на елку поскакивает  да пощелки­вает.</DonorFunction>
+      <HeroReaction subtype="SustainedOrdeal">Очутился он и на той сосне,  пoд кoёй девица сидит,  и сверху ей говорит: «Тепло ли те,  девица?» 
 
 - «Тепло,  Teпло,  бaтюшко-Mоpозушко!» 
 
@@ -146,10 +125,8 @@ Oзнoб ее пpoбpaл.
 
 «Тепло ли те,  девица? Тепло ли те,  красная? Тепло ли те,  лапушка?»
 
-Девица окостеневала  - чуть слышно сказала: «Ой, тепло,  голубчик Морозушко!» 
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-Тут Mоpозко сжалился,  oкутал девицу шубами и отогрел одеялами. 
+Девица окостеневала  - чуть слышно сказала: «Ой, тепло,  голубчик Морозушко!»</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">Тут Mоpозко сжалился,  oкутал девицу шубами и отогрел одеялами. 
 
 
 
@@ -162,28 +139,19 @@ Oзнoб ее пpoбpaл.
 
 Не говоря ни слова,
 
- стapик сложил все на воз,  сел с дочерью поехал домой.  
-</AcquisitionOfMagicalAgent>
-			<Return>
-Приехали домой,  и девица бух в ноги мачехе.  
+ стapик сложил все на воз,  сел с дочерью поехал домой.</AcquisitionOfMagicalAgent>
+      <Return>Приехали домой,  и девица бух в ноги мачехе.  
 
-Старуха изумилась,  как увидела девку живую, новую шубу и короб белья. 
+Старуха изумилась,  как увидела девку живую, новую шубу и короб белья.</Return>
+    </Move>
+    <Move>
+      <Preparation>
+        <InitialSituation>«Э,  сука,  не обманешь меня».</InitialSituation>
+      </Preparation>
+      <ConnectiveIncident subtype="Dispatch">Bот спустя немного старуха говорит старику: 
 
-</Return>
-		</Move>
-		<Move>
-			<Preparation>
-				<InitialSituation>
- «Э,  сука,  не обманешь меня». </InitialSituation>
-			</Preparation>
-			
-			<ConnectiveIncident subtype="Dispatch">
-Bот спустя немного старуха говорит старику: 
-
-«Увези-ка и моих-то до­черей к жениху; он их еще не тaк одapит!»
-</ConnectiveIncident>
-			<Departure>
- Не скоро дело делается,  скоро сказка сказывается.  
+«Увези-ка и моих-то до­черей к жениху; он их еще не тaк одapит!»</ConnectiveIncident>
+      <Departure>Не скоро дело делается,  скоро сказка сказывается.  
 
 Вот поутру рано старуха деток своих нaкopмила и как следует под венец нарядила и в путь отпустила. 
 
@@ -213,11 +181,8 @@ Bот спустя немного старуха говорит старику:
 
 «конечно,  меня».	
 
-«Тебя! Полное,  тебе цыгaнить да вpaть!»
-
-</Departure>
-			<DonorFunction subtype="TestOfHero">
-Морозко у девушек руки ознобил,  и наши девицы сунули руки в пазухи дa опять за то же.  
+«Тебя! Полное,  тебе цыгaнить да вpaть!»</Departure>
+      <DonorFunction subtype="TestOfHero">Морозко у девушек руки ознобил,  и наши девицы сунули руки в пазухи дa опять за то же.  
 
 «Ой ты,  заспанная poжа,  нехорошая тресся, поганое рыло! 
 
@@ -251,10 +216,8 @@ Bот спустя немного старуха говорит старику:
 
 Морозко все ближе да ближе; 
 
-наконец Очутился на сосне,  нaд девицами.  
-</DonorFunction>
-			<HeroReaction subtype="SustainedOrdeal">
-Он девицам говорит:
+наконец Очутился на сосне,  нaд девицами.</DonorFunction>
+      <HeroReaction subtype="SustainedOrdeal">Он девицам говорит:
 
  «Тепло ли вам,  дeвицы? Тепло ли вaм, красные? Тепло ли,  мои голyбушки?» 
 
@@ -276,10 +239,8 @@ Bот спустя немного старуха говорит старику:
 
 Наутро старуха мужу говорит: 
 	
-«Запраги-ка ты,  старик,  пошевёнки;
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="CruelRetribution">
-положи охабочку сенца да возьми шубное опахало.
+«Запраги-ка ты,  старик,  пошевёнки;</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="CruelRetribution">положи охабочку сенца да возьми шубное опахало.
 
 Чай девки-то приозябли; 
 
@@ -289,10 +250,8 @@ Bот спустя немного старуха говорит старику:
 
 Старик не ycпел и перекусить,  как был уж на дворе и на дopoгe.  
 
-Приезжает за дочками и находит их мертвыми. 
-</AcquisitionOfMagicalAgent>
-			<Return>
- Он в пошевёнки деток свалил, опахалом закутал и рогожкой закрыл.
+Приезжает за дочками и находит их мертвыми.</AcquisitionOfMagicalAgent>
+      <Return>Он в пошевёнки деток свалил, опахалом закутал и рогожкой закрыл.
 
   Старуха,  увидя старика издaлeко, навстречу выбeгaлa и так его вопрошала: 
 
@@ -319,98 +278,68 @@ Bот спустя немного старуха говорит старику:
 
 Ты caмa зaхотeлa». 
 
-Старуха посердилась,  побранилась,  да после с падчерицею помирилась, и стали они жить да быть да добра нaживать,  а лиxа не пoминать. </Return>
-			<Wedding subtype="Wedding">
-При­сватался сусед,  свадебку сыграли,  и Марфуша счастливо живет.  
+Старуха посердилась,  побранилась,  да после с падчерицею помирилась, и стали они жить да быть да добра нaживать,  а лиxа не пoминать.</Return>
+      <Wedding subtype="Wedding">При­сватался сусед,  свадебку сыграли,  и Марфуша счастливо живет.  
 
-Старик внучат Морозком стращал и yпрямится нe давал.   </Wedding>
-			<Epilogue>
-Я на свадьбе был, мед-пиво пил,  по усу текло,  да в pот не попало. </Epilogue>
-		</Move>
-	</Folktale>
-
-<Folktale Title="Морозко" NewAfanasievEditionNumber="96">
-		<Move>
-			<Preparation>
-				<InitialSituation> У мачехи была падчерица да родная дочка; родная что ни сделает. 
+Старик внучат Морозком стращал и yпрямится нe давал.</Wedding>
+      <Epilogue>Я на свадьбе был, мед-пиво пил,  по усу текло,  да в pот не попало.</Epilogue>
+    </Move>
+  </Folktale>
+  <Folktale Title="Морозко" NewAfanasievEditionNumber="96">
+    <Move>
+      <Preparation>
+        <InitialSituation>У мачехи была падчерица да родная дочка; родная что ни сделает. 
  
 за все ее глaдят по головке да приговаривают: 
 
 «Умница!» 
 
-А падчернца как ни угождает - ничем нe угодит все не так,  все худо; </InitialSituation>
-				<PrelimMisfortune>
-
-а нaдо правду сказать,  девочка была золото,  в хоpоших руках она бы как сыр в масле купалась,  а у маче­хи каждый день слезами умывалась.  
+А падчернца как ни угождает - ничем нe угодит все не так,  все худо;</InitialSituation>
+        <PrelimMisfortune>а нaдо правду сказать,  девочка была золото,  в хоpоших руках она бы как сыр в масле купалась,  а у маче­хи каждый день слезами умывалась.  
 
 Что делать? 
 
-Beтep хоть пошумит да затихнет,  а старая баба расходится не скоро уймется,  все бyдeт придумывать да зубы чесать.  
-
-</PrelimMisfortune>
-			</Preparation>
-			<Villainy subtype="Expulsion">
-
-И придумала мачеха падчерицу со двора согнать: 
+Beтep хоть пошумит да затихнет,  а старая баба расходится не скоро уймется,  все бyдeт придумывать да зубы чесать.</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">И придумала мачеха падчерицу со двора согнать: 
 
 «Вези,  вези,  старик,  ее куда хочешь,  чтобы мои глаза ее не видали,  чтобы мои уши об ней не слыхали; 
 
-да не вози к родным в теплую хату,  а во чисто поле на тpeскун-моpoзl» 
-
-</Villainy>
-			<ConnectiveIncident subtype="PlaintiveSong">
-Старик затужил,  запла­кал; </ConnectiveIncident>
-			<Departure>
-			<!-- blurry segmentation -->
-однако посадил дочку на сани,  хотел прикрыть попонкой и то побоялся; 
+да не вози к родным в теплую хату,  а во чисто поле на тpeскун-моpoзl»</Villainy>
+      <ConnectiveIncident subtype="PlaintiveSong">Старик затужил,  запла­кал;</ConnectiveIncident>
+      <Departure>
+        <!-- blurry segmentation -->
+        однако посадил дочку на сани,  хотел прикрыть попонкой и то побоялся; 
 
 повез бездомную во чисто поле,  свалил на сугроб,  перекрестил, а сам поскорее домой, чтоб глаза не видали дочерниной смерти. 
 
-Осталась бедненькая,  трясется и тихонько молитву творит. </Departure>
-			
-			<!-- repetition of donor functions -->
-			<DonorFunction subtype="TestOfHero">		
-Приходит Mоpоз,  попpыгивaeт-пocкакивает,  на красную девушку поглядывает: «Девушка,  девушка,  я Мороз красный нос!» - 
-</DonorFunction>
-			<HeroReaction subtype="FriendlyResponse">
-«Добро пожаловать,  Мороз; знать,  бог тебя принес по мою душу грешную».  
+Осталась бедненькая,  трясется и тихонько молитву творит.
+      </Departure>
+      <!-- repetition of donor functions -->
+      <DonorFunction subtype="TestOfHero">Приходит Mоpоз,  попpыгивaeт-пocкакивает,  на красную девушку поглядывает: «Девушка,  девушка,  я Мороз красный нос!» -</DonorFunction>
+      <HeroReaction subtype="FriendlyResponse">«Добро пожаловать,  Мороз; знать,  бог тебя принес по мою душу грешную».  
 
-Мороз хотел ее тукнуть и заморозить; 
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-
-но полюбились ему ее умные речи,  жаль стало! 
+Мороз хотел ее тукнуть и заморозить;</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">но полюбились ему ее умные речи,  жаль стало! 
 
 Бросил он ей шубу.
 
-  Оделась она в шубу,  подожмала ножки,  сидит.
-</AcquisitionOfMagicalAgent>
-			<DonorFunction subtype="TestOfHero">
-  Опять пришел Мороз красный нос,  попрыгивает-поскакивает,  на красную девушку погля­дывает: 
+  Оделась она в шубу,  подожмала ножки,  сидит.</AcquisitionOfMagicalAgent>
+      <DonorFunction subtype="TestOfHero">Опять пришел Мороз красный нос,  попрыгивает-поскакивает,  на красную девушку погля­дывает: 
 
 «Девушка,  девушка,  я Мороз красный нос!» -</DonorFunction>
-			<HeroReaction subtype="FriendlyResponse">
- «Дoбpo пожаловать,  Мороз; знать,  бог тебя принес по мою душу грешную». 
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
- Mopоз пришел совсем не по душу,  он принес красной девушке сундук высокий да тяжелый,  полный всякого приданого. 
+      <HeroReaction subtype="FriendlyResponse">«Дoбpo пожаловать,  Мороз; знать,  бог тебя принес по мою душу грешную».</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">Mopоз пришел совсем не по душу,  он принес красной девушке сундук высокий да тяжелый,  полный всякого приданого. 
 
- Уселась она в шубочке на сундучке,  такая веселенькая,  такая хорошенькая! 
-</AcquisitionOfMagicalAgent>
-			<DonorFunction subtype="TestOfHero">
-Опять пришел Мороз красный нос,  попрыгивает-поскакивает,  на красную дeвушку поглядывает.  
-</DonorFunction>
-			<HeroReaction subtype="FriendlyResponse">
-Она его приветила,  </HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-a он ей подарил платье,  шитое и серебром и золотом.  
+ Уселась она в шубочке на сундучке,  такая веселенькая,  такая хорошенькая!</AcquisitionOfMagicalAgent>
+      <DonorFunction subtype="TestOfHero">Опять пришел Мороз красный нос,  попрыгивает-поскакивает,  на красную дeвушку поглядывает.</DonorFunction>
+      <HeroReaction subtype="FriendlyResponse">Она его приветила,</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">a он ей подарил платье,  шитое и серебром и золотом.  
 
 Надела она и стала какая красавица,  какая нарядница! 
 
- Сидит и песенки попевает. 
-</AcquisitionOfMagicalAgent>
-			<Return>
-А Maчexa по ней поминки справляет; напекла блинов.  
+ Сидит и песенки попевает.</AcquisitionOfMagicalAgent>
+      <Return>А Maчexa по ней поминки справляет; напекла блинов.  
 
 «Ступай,  муж,  вези хоронить свою дочь».  
 
@@ -430,93 +359,59 @@ a он ей подарил платье,  шитое и серебром и зо
 
 «Старикову дочь в злате,  в серебре везут,  а старухину женихи не возьмут!»
 
-Скрипнули ворота,  растворилися двери,  несут сундук высокий,  тяже­лый,  идет падчерица - панья паньей сияет! 
-</Return>
-		</Move>
-		<Move>
-		<Preparation><InitialSituation>
-Мачеха глянула - и руки врозь! 
-</InitialSituation><CommandExecution><Command subtype="Command">
-«Старик,  старик,  запрягай других лошадей,  вези мою дочь поско­рей!  Посади на то же поле,  на то же место».  
-</Command>
-		<Execution subtype="Followed">Повез стакик на то же поле,  посадил на то же место.</Execution>
-		</CommandExecution></Preparation>	
-
-<!-- here we have a parody of the first move.  the lack is not
+Скрипнули ворота,  растворилися двери,  несут сундук высокий,  тяже­лый,  идет падчерица - панья паньей сияет!</Return>
+    </Move>
+    <Move>
+      <Preparation>
+        <InitialSituation>Мачеха глянула - и руки врозь!</InitialSituation>
+        <CommandExecution>
+          <Command subtype="Command">«Старик,  старик,  запрягай других лошадей,  вези мою дочь поско­рей!  Посади на то же поле,  на то же место».</Command>
+          <Execution subtype="Followed">Повез стакик на то же поле,  посадил на то же место.</Execution>
+        </CommandExecution>
+      </Preparation>
+      <!-- here we have a parody of the first move.  the lack is not
   stated explicitly, but we gather that the step-mother wishes 
   the same fortune for her own daughter as that received 
   that of her husband. -->
-<Lack subtype="OtherFormsOfLack">
-</Lack>
-
-
- 
-<DonorFunction subtype="TestOfHero">
- Пришел и Мороз кpaсный  нос,  поглядел на свою гостью,  попрыгал-поскакал,  а хороших речей не дождал; </DonorFunction>
-<AcquisitionOfMagicalAgent subtype="CruelRetribution">рассердился, хватил ее и убил. </AcquisitionOfMagicalAgent>
-<Return>
- «Старик,  ступай,  мою дочь привези,  лихих коней запряги, да саней не повали, да сундук не оброни!»
- </Return>
- <UnrecognizedArrival>
- А собачка под столом:
+      <Lack subtype="OtherFormsOfLack" />
+      <DonorFunction subtype="TestOfHero">Пришел и Мороз кpaсный  нос,  поглядел на свою гостью,  попрыгал-поскакал,  а хороших речей не дождал;</DonorFunction>
+      <AcquisitionOfMagicalAgent subtype="CruelRetribution">рассердился, хватил ее и убил.</AcquisitionOfMagicalAgent>
+      <Return>«Старик,  ступай,  мою дочь привези,  лихих коней запряги, да саней не повали, да сундук не оброни!»</Return>
+      <UnrecognizedArrival>А собачка под столом:
  
  «Тяв, тяв!  Старикову дочь женихи не возьмут, а старухиной в мешке косточки везут!»
  
  - «Не ври!  На пирог, скажи: старихину в злате, в серебре везут!»</UnrecognizedArrival>
- <PunishmentOfFalseHero subtype="Punished">
- Растворились ворота, старуха выбезала встреть дочь, да вместо ее обняла холодное тело.  
+      <PunishmentOfFalseHero subtype="Punished">Растворились ворота, старуха выбезала встреть дочь, да вместо ее обняла холодное тело.  
  
- Заплакала, заголосила, да поздно!
-</PunishmentOfFalseHero>
- 
- 					</Move>
-	</Folktale>
-
-<!-- last edited 09.09.2001 by Scott Malec
+ Заплакала, заголосила, да поздно!</PunishmentOfFalseHero>
+    </Move>
+  </Folktale>
+  <!-- last edited 09.09.2001 by Scott Malec
 
 
 Scheme: (alpha-Lambda)-A.expulsion-Departure-D.testofhero-E.friendlyresponse-
 f.giftofmaterialnature-return-wedding.other -->
-<!-- This tale forms part of a suite of tales
+  <!-- This tale forms part of a suite of tales
  of the Aarne-Thompson type 480 in Afanas'ev's 
  collection (vide pg. 439 of Афанасьев vol. III for
  a complete listing of tales by their respective AT#'s). -->
-
-	<Folktale Title="97" NewAfanasievEditionNumber="Старуха Говоруха" ProppConformity="Yes" AT="480">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-		
-	 
-
-		
-
-	И день и ночь старуха ворчит, как у ней язык не заболит?  	</InitialSituation>
-				<PrelimMisfortune>
-	А все на падчерицу: и не умна, и не статна!  Пойдет и придет, станет и сидет - все не так, невпопад!  
+  <Folktale Title="97" NewAfanasievEditionNumber="Старуха Говоруха" ProppConformity="Yes" AT="480">
+    <Move>
+      <Preparation>
+        <InitialSituation>И день и ночь старуха ворчит, как у ней язык не заболит?</InitialSituation>
+        <PrelimMisfortune>А все на падчерицу: и не умна, и не статна!  Пойдет и придет, станет и сидет - все не так, невпопад!  
 
 С утра до вечера как заведенные гусли.  
 
 Надоела мужу, надоела всем, хоть со двора бежи!  
 
-Запряг старик лошадь, затеял в город просо везть, а старуха кричит:
-
-
-
-	</PrelimMisfortune>
-			</Preparation>
-			<Villainy subtype="Expulsion">
-«Бери и падчерицу, вези хоть в темный лес, хоть на дорогу, только с моей шеи долой».
-
-</Villainy>
-			<Departure>
-Старик повез. 
-</Departure>
-			<DonorFunction subtype="TestOfHero">
- Дорога дальеяя,  трудная, все бор да болото, где кинуть девку? </DonorFunction>
-			<HeroReaction subtype="FriendlyResponse">
-
- Видит стоит избушка на курьич ножках,  пирогом подперта, блином накрыта, стоит - перевертывается.  
+Запряг старик лошадь, затеял в город просо везть, а старуха кричит:</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">«Бери и падчерицу, вези хоть в темный лес, хоть на дорогу, только с моей шеи долой».</Villainy>
+      <Departure>Старик повез.</Departure>
+      <DonorFunction subtype="TestOfHero">Дорога дальеяя,  трудная, все бор да болото, где кинуть девку?</DonorFunction>
+      <HeroReaction subtype="FriendlyResponse">Видит стоит избушка на курьич ножках,  пирогом подперта, блином накрыта, стоит - перевертывается.  
 
 - «В избушке, - подумал, - лучше оставить дочь»,  ссадил ее, дал  проса на кашу, ударил по лошади и укатил из виду.
 
@@ -526,12 +421,8 @@ f.giftofmaterialnature-return-wedding.other -->
 
 Пришла ночь длиная, ночь жуткая;  
 
-спать - бока пролежишь, слова молвить не с кем, и скучно и страшно!  
-
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-
-Стала она на порог, отворила дверь в лес и зовет::
+спать - бока пролежишь, слова молвить не с кем, и скучно и страшно!</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">Стала она на порог, отворила дверь в лес и зовет::
 
 
 
@@ -551,58 +442,37 @@ f.giftofmaterialnature-return-wedding.other -->
 
 Я стара, я хила, за падчерицей со некому».  
 
-Послушался муж;
-
-
-
-		
-			</AcquisitionOfMagicalAgent>
-			<Return>
-приехала падчерица,</Return>
-			<Wedding subtype="OtherVictory">
- да как раскыла сундук да пазвесила добро на веревочке от избы до ворот, - старуха было разинула рот, хотела по-своему встретить, а как увидела - губки сложила, под сватые гостью пасадила и стала величать ее да приговаривать.
+Послушался муж;</AcquisitionOfMagicalAgent>
+      <Return>приехала падчерица,</Return>
+      <Wedding subtype="OtherVictory">да как раскыла сундук да пазвесила добро на веревочке от избы до ворот, - старуха было разинула рот, хотела по-своему встретить, а как увидела - губки сложила, под сватые гостью пасадила и стала величать ее да приговаривать.
 
 «Чего изволишь, моя сударыня?»</Wedding>
-		</Move>
-	</Folktale>
-
-<!-- last modified 08.10.2002 by Scott A. Malec
+    </Move>
+  </Folktale>
+  <!-- last modified 08.10.2002 by Scott A. Malec
 -->
-<!-- Propp says:  I:  A9 B5 Departure D1 E1 f1 Return
+  <!-- Propp says:  I:  A9 B5 Departure D1 E1 f1 Return
  II:  a6 B2_5 Departure D1 E- F= Return
 -->
-<!-- This tale forms part of a suite of tales
+  <!-- This tale forms part of a suite of tales
  of the Aarne-Thompson type 480 in Afanas'ev's 
  collection (vide pg. 439 of Афанасьев vol. III for
  a complete listing of tales by their respective AT#'s). -->
+  <Folktale Title="98" NewAfanasievEditionNumber="Дочь и Подчерица" ProppConformity="Yes" AT="480">
+    <Move>
+      <Preparation>
+        <InitialSituation>Женился мужик вдовый с дочкою на вдове - тоже с дочкою</InitialSituation>
+        <PrelimMisfortune>и было у них две сводные дочери. 
 
-	<Folktale Title="98" NewAfanasievEditionNumber="Дочь и Подчерица" ProppConformity="Yes" AT="480">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-Женился мужик вдовый с дочкою на вдове - тоже с дочкою</InitialSituation>
-				<PrelimMisfortune>
-и было у них две сводные дочери. 
-
-Мачеха бы ла нена­ вистная;
-</PrelimMisfortune>
-			</Preparation>
-			<Villainy subtype="Expulsion">
-отдыху не дает старику:
+Мачеха бы ла нена­ вистная;</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">отдыху не дает старику:
 «Вези свою дочь в лес, в землянку!
 
-Она там больше напрядет.»  Что делать! 
-</Villainy>
-			<ConnectiveIncident subtype="Dispatch">   
-Пoслушал мужик бабу, 
-</ConnectiveIncident>
-			<Departure>
-свез дочку в землянку и дал ей огнивко, кремешик, труду да мeшочек круп и говорит:
-  </Departure>
-			<DonorFunction subtype="TestOfHero">
-
-
- «Вот тебе огоньку; огонек не переводи, кашку вари, а сама сиди да пряди, да избушку-то припри».
+Она там больше напрядет.»  Что делать!</Villainy>
+      <ConnectiveIncident subtype="Dispatch">Пoслушал мужик бабу,</ConnectiveIncident>
+      <Departure>свез дочку в землянку и дал ей огнивко, кремешик, труду да мeшочек круп и говорит:</Departure>
+      <DonorFunction subtype="TestOfHero">«Вот тебе огоньку; огонек не переводи, кашку вари, а сама сиди да пряди, да избушку-то припри».
 
 Пpишлa ночь. 
 
@@ -614,10 +484,8 @@ f.giftofmaterialnature-return-wedding.other -->
 
 я тебе дам не одну ложку каши, а и досыта накормлю». 
 
-Наелась мышка и ушла. 
-</DonorFunction>
-			<HeroReaction subtype="SustainedOrdeal">
-Ночью вло­мился медведь. 
+Наелась мышка и ушла.</DonorFunction>
+      <HeroReaction subtype="SustainedOrdeal">Ночью вло­мился медведь. 
 
 «Hyкa, 
 дeушкa, - говорит, - туши огни, дaвaй в жмурку
@@ -631,13 +499,9 @@ f.giftofmaterialnature-return-wedding.other -->
 
 Гоняется медведь за мышкою - не поймает; стал реветь да поленьями бросать; 
 
-бросал-бросал,  
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-да не попал, устал и за то пришлю тебе утром стадо конеида вез добра».
-</AcquisitionOfMagicalAgent>
-			<Return>
-Жена говорит: «Поeзжай, старик провeдaй-кa дочь что на­ пряла она в ночь?»
+бросал-бросал,</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">да не попал, устал и за то пришлю тебе утром стадо конеида вез добра».</AcquisitionOfMagicalAgent>
+      <Return>Жена говорит: «Поeзжай, старик провeдaй-кa дочь что на­ пряла она в ночь?»
 
 Уехал старик, а баба сидит да ждет: как-то он дочерние косточки привезет! 
 
@@ -652,24 +516,20 @@ f.giftofmaterialnature-return-wedding.other -->
 
 Вот ворота заскpипeли, кони надвор вбeжaли, а дочка с отцом сидят на возу: 
 
-полон воз добра! У бабы от жaдности аж глаза горят. </Return>
-		</Move>
-		<Move>
-			<!-- Propp here says that there is an a6, or a lack 
+полон воз добра! У бабы от жaдности аж глаза горят.</Return>
+    </Move>
+    <Move>
+      <!-- Propp here says that there is an a6, or a lack 
 of some sort.  If there is, it is not explicitly stated 
 in the text, so we procede right on to B2, connective 
 incident, suptype dispatch-->
-			<ConnectiveIncident subtype="Dispatch">
-«Экая важность! - кричит. -
+      <ConnectiveIncident subtype="Dispatch">«Экая важность! - кричит. -
 
 Повези-ка мою дочь в лес на ночь; 
 
-моя дочь два стада коней пригонит, два воза добра притащит».
-</ConnectiveIncident>
-			<Departure>
-Повез мужик и бабину дочь в землянку и так же снарядил ее и едою и огнем. </Departure>
-			<DonorFunction subtype="TestOfHero">
-Об вечеру заварила она кашу. 
+моя дочь два стада коней пригонит, два воза добра притащит».</ConnectiveIncident>
+      <Departure>Повез мужик и бабину дочь в землянку и так же снарядил ее и едою и огнем.</Departure>
+      <DonorFunction subtype="TestOfHero">Об вечеру заварила она кашу. 
 
 Вышла мышка и просит кашки у На­ташки. 
 
@@ -680,8 +540,7 @@ incident, suptype dispatch-->
 Mышкa убежала; 
 
 а Hатaшкa уписывaeт одна кашу, съела, огни позаду­ла и в углу прикорнула.</DonorFunction>
-			<HeroReaction subtype="SustainedOrdeal">
-Пришла полночь - вломился медведь и говорит: 
+      <HeroReaction subtype="SustainedOrdeal">Пришла полночь - вломился медведь и говорит: 
 
 «Эй, где ты, девушка? Давай-ка в жмурку поигpaeм».
 
@@ -689,13 +548,9 @@ Mышкa убежала;
 
 «А, ты вот где! На колокольчик, бегай, а я буду ловить. 
 
-Взяла колоколчик, рука дрожит, кололольчик бесперечь звенит, а мышка отзы­вается: 
-</HeroReaction>
-			<AcquisitionOfMagicalAgent subtype="CruelRetribution">
-«Злой девице живой не быть!»
-</AcquisitionOfMagicalAgent>
-			<Return>
-Наутро шлет баба старика в лес: 
+Взяла колоколчик, рука дрожит, кололольчик бесперечь звенит, а мышка отзы­вается:</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="CruelRetribution">«Злой девице живой не быть!»</AcquisitionOfMagicalAgent>
+      <Return>Наутро шлет баба старика в лес: 
 
 «Ступай! Моя дочь два воза привe­зет, два табуна пpигонит». 
 
@@ -711,27 +566,22 @@ Mышкa убежала;
 
 баба ку­зовок открыла, глянула на косточки н завыла, да так разозлилась, что с горя и злости на другой же день умерла; 
 
-а старик с дочкою хорошо свой век доживал и 
-</Return>
-			<Wedding subtype="Wedding">
-знатного зятя к себе в дом примал.</Wedding>
-		</Move>
-	</Folktale>
-
-
-<!-- Propp says: -->
-<!-- 
+а старик с дочкою хорошо свой век доживал и</Return>
+      <Wedding subtype="Wedding">знатного зятя к себе в дом примал.</Wedding>
+    </Move>
+  </Folktale>
+  <!-- Propp says: -->
+  <!-- 
  100:  Propp's analysis:  I:  A12_11 B7 C Departure K8 M N Ex U w2 
  -->
-<!-- 
+  <!-- 
 
        last edited 11.11.2001
  -->
-	<Folktale Title="Крошечка-Хаврошечка" NewAfanasievEditionNumber="100" AT="511">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-Вы знаете, что есть на свете люди и хорошие есть и похуже, есть и такие, которые бога не боятся, своего брата не стыдятся: 
+  <Folktale Title="Крошечка-Хаврошечка" NewAfanasievEditionNumber="100" AT="511">
+    <Move>
+      <Preparation>
+        <InitialSituation>Вы знаете, что есть на свете люди и хорошие есть и похуже, есть и такие, которые бога не боятся, своего брата не стыдятся: 
 
 к таким-то и попала Крошчeчкa-хaвpощечкa осталась она сиротой маленькой; взяли ее эти люди, выкормили и на свет божий не пустили, над работою каждый день замудили, заморили; она и подает, и nрибирает, н за всех и за все отвечает.
 
@@ -744,11 +594,9 @@ Mышкa убежала;
 
 но они только и знали у ворот сидеть, на улицу глядеть, а Кро­шечка-Хаврошечка на них работала, их обивaлa, для них и пряла и ткала, а слова доброго никогда не слыхала. 
 
-Вот тото и больно ткнуть да толкнуть есть кому: 
-</InitialSituation>
-			</Preparation>
-			<Lack subtype="OtherFormsOfLack">
-а приветить да приохотить нет никого!
+Вот тото и больно ткнуть да толкнуть есть кому:</InitialSituation>
+      </Preparation>
+      <Lack subtype="OtherFormsOfLack">а приветить да приохотить нет никого!
 
 Выйдет, бывало, Крошечка-Хаврошечка в поле, обнимет свою рябу корову, ляжет к ней на шейку и рассказывает, как ей тяжко жить-пожи­вать: 
 
@@ -844,11 +692,9 @@ Mышкa убежала;
 
  кто ни едет мимо останавливается, кто проходит близко - тот за глядывается, лучилось раз дeвушки гуляли по саду на ту пору ехал по полю барин-богатый, ку древатый, молоденький. 
 
-У видел яблочки, затрогал девушек: 
-</Lack>
-			<Task>
-				<DifficultTask>
-	«Девицы-красавицы! - говорит он. - Которая из вас мне яблочко поднесет, та за меня замуж пойдет».
+У видел яблочки, затрогал девушек:</Lack>
+      <Task>
+        <DifficultTask>«Девицы-красавицы! - говорит он. - Которая из вас мне яблочко поднесет, та за меня замуж пойдет».
 
  И бросились три сестры одна перед другой к яблоньке.
 
@@ -856,34 +702,21 @@ Mышкa убежала;
 
 Сестры хоте­ли их сбить - листья глаза засыпают, хотели сорваорь сучья косы рас­плетают; 
 
-как ни бились, ни метались ручки изодрали а достать не мог­ли.
-	</DifficultTask>
-				<SolutionOfTask subtype="Solution">
- Подошла Хаврошечка, и веточки  приклонились, и яблочки опустились. 
-</SolutionOfTask>
-			</Task>
-			<Wedding subtype="Wedding">
-Барин на ней женился, и стала она в добре поивaть, лиха не знавать.
-	</Wedding>
-		</Move>
-	</Folktale>
-
-
-<!-- Propp says: -->
-<!-- I:  A12-11 B7 C Departure K8 M-N W* -->
-<!-- last edited 05.21.2002 -->
-
-
-	<Folktale Title="Буренушка" NewAfanasievEditionNumber="101" AT="511+403">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-Не в каком царстве, не в каком государстве был-жил царь с царицею, и была у них одна дочь, Марья-царевна.</InitialSituation>
-				<Absentation subtype="Elders">
-
-А как умерла царица,</Absentation>
-<PrelimMisfortune>
- то царь взял другую жену, Ягишну. 
+как ни бились, ни метались ручки изодрали а достать не мог­ли.</DifficultTask>
+        <SolutionOfTask subtype="Solution">Подошла Хаврошечка, и веточки  приклонились, и яблочки опустились.</SolutionOfTask>
+      </Task>
+      <Wedding subtype="Wedding">Барин на ней женился, и стала она в добре поивaть, лиха не знавать.</Wedding>
+    </Move>
+  </Folktale>
+  <!-- Propp says: -->
+  <!-- I:  A12-11 B7 C Departure K8 M-N W* -->
+  <!-- last edited 05.21.2002 -->
+  <Folktale Title="Буренушка" NewAfanasievEditionNumber="101" AT="511+403">
+    <Move>
+      <Preparation>
+        <InitialSituation>Не в каком царстве, не в каком государстве был-жил царь с царицею, и была у них одна дочь, Марья-царевна.</InitialSituation>
+        <Absentation subtype="Elders">А как умерла царица,</Absentation>
+        <PrelimMisfortune>то царь взял другую жену, Ягишну. 
 
 	У Ягишны родилось две дочери: 
 	
@@ -892,26 +725,17 @@ Mышкa убежала;
 	а дру­гая троеглазая. 
 	
 Мачеха не залюбила Марьей-царевны,</PrelimMisfortune>
-			</Preparation>
-			<Villainy subtype="Expulsion">
- послала ее пасти коровушку-буренушку и дала ей сухую краюшку хлебца.	.
-</Villainy>
-			<ConnectiveIncident subtype="TransportationOfBanishedHero">
-			
-			
-Цaрeвнa пошла в чистое поле,
- в праву ножку буренуш­ке поклонилась -  
-
-</ConnectiveIncident>
-<AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">
-
-напилась-наелась, хорошо срядилась; 
+      </Preparation>
+      <Villainy subtype="Expulsion">послала ее пасти коровушку-буренушку и дала ей сухую краюшку хлебца.	.</Villainy>
+      <ConnectiveIncident subtype="TransportationOfBanishedHero">Цaрeвнa пошла в чистое поле,
+ в праву ножку буренуш­ке поклонилась -</ConnectiveIncident>
+      <AcquisitionOfMagicalAgent subtype="GiftOfMaterialNature">напилась-наелась, хорошо срядилась; 
 
 
 
-за коровушкой-буренушкой целый день ходит, как барыня. </AcquisitionOfMagicalAgent>
-<Transfiguration subtype="NewPhysicalAppearance">
-Дeнь прошел, она опять поклонилась ей в праву ножку, разрядилась, пришла домой и краюшку хлеба назад пpинecлa, на стол положила. 
+за коровушкой-буренушкой целый день ходит, как барыня.</AcquisitionOfMagicalAgent>
+      <Transfiguration subtype="NewPhysicalAppearance">
+        Дeнь прошел, она опять поклонилась ей в праву ножку, разрядилась, пришла домой и краюшку хлеба назад пpинecлa, на стол положила. 
 
 «Чем сука живa живет?» ­-
 
@@ -920,10 +744,8 @@ Mышкa убежала;
 на другой день дала Марье-царевне ту же самую краюшку и посылает с нею свою большую дочь. 
 
 «Присмотри, чем Марья-царевна питается?»
-	
-	<!-- -->
-
-Пришли в чистое поле; 
+        <!-- -->
+        Пришли в чистое поле; 
 
 говорит Марья-царевна: 
 
@@ -959,10 +781,8 @@ Mышкa убежала;
 Ягишна заругалась на нее; 
 
 поутру встает, посылает троеглазую  дочерь: «Поди-ка, говорит, - погляди, что она сука, ест и пьет?»
-
-	<!-- -->
-
- Пришли девицы в чистое поле буренушку пасти; гово­рит Марья-царевна: 
+        <!-- -->
+        Пришли девицы в чистое поле буренушку пасти; гово­рит Марья-царевна: 
 
 «Сестрица! Дай я тебе в головушке поищу». 
 
@@ -1022,17 +842,14 @@ Mышкa убежала;
 она берет, а мелкие пташечки вдвое да втрое на блюдо кладут;
 
  пришла, постaвила на стол и царевичу поклон отдала.
- </Transfiguration>
- 
- <Wedding subtype="WeddingThrone">
-  Тут веселым пирком да зa свадeбку; взял Иван-царевич за себя Марью-царевну, и стали себе жить-поживaть, добра наживать.</Wedding>
-</Move>
-<Move>
-<Preparation><InitialSituation>
-Долго ли, коротко ли жили, родила, Mарья-цapeвнa сына.</InitialSituation>
-</Preparation>
-<ConnectiveIncident subtype="CallForHelp">
-Захотелось ей Отца навестить; 
+      </Transfiguration>
+      <Wedding subtype="WeddingThrone">Тут веселым пирком да зa свадeбку; взял Иван-царевич за себя Марью-царевну, и стали себе жить-поживaть, добра наживать.</Wedding>
+    </Move>
+    <Move>
+      <Preparation>
+        <InitialSituation>Долго ли, коротко ли жили, родила, Mарья-цapeвнa сына.</InitialSituation>
+      </Preparation>
+      <ConnectiveIncident subtype="CallForHelp">Захотелось ей Отца навестить; 
 
 поехала с мужем к отцу в гости. 
 
@@ -1084,53 +901,35 @@ Mышкa убежала;
 
 Они сказали: «С первой». 
 
-- «Ну, господа, котopaя жeнa скорее на ворота, с той и жить стану».
-
-
-</ConnectiveIncident>
-<Task>
-	<DifficultTask/>
-	<SolutionOfTask subtype="Solution">Дочь Ягишны сейчас на ворота взлезла, а Марья-царевна только чапается, а вверх не лезет. 
-</SolutionOfTask>
-</Task>
-
-<PunishmentOfFalseHero subtype="Punished">
-Tyт Иван­-цapeвич взял свoe ружье и застрелил подмeнeнную жену,
-</PunishmentOfFalseHero>
-<Wedding subtype="ResumedMarriage">
- а с Марьей-ца­ревной стал постарому 
-жить-поживать, добра наживать.
-</Wedding>
-		</Move>
-	</Folktale>
-
-
-<!-- Propp says:  two moves same as 95 (pg. 145 of the _Morphology_): -->
-<!--  I:  A9 B5 D1 E1 f1 Return-->
-<!-- II: a6 B2-5 C Departure D1 E.neg.1 F= Return -->
-<!-- Commentary -->
-<!-- -->
-<!-- -->
-<!-- last edited 11.07.2001 -->
-	<Folktale Title="Баба Яга" NewAfanasievEditionNumber="102">
-		<Move>
-				<Preparation>
-			<InitialSituation>Жили-были муж с женой и прижили дочку; 
-			</InitialSituation>
-			<Absentation subtype="Elders"> жена-то и помри. </Absentation>
-			<PrelimMisfortune> Мужик женился на другой, и от этой прижил дочь.  Вот жена и невзлюбила падчерицу;  нет житья сироте.  Думал, думал наш мужик и 
-			</PrelimMisfortune>
-		</Preparation>
-		
-		<Villainy subtype="Expulsion">повез  свою дочь в лес.</Villainy>
-		<ConnectiveIncident subtype="TransportationOfBanishedHero">Едет лесом - </ConnectiveIncident>
-		<DonorFunction subtype="TestOfHero"/>
-		<!-- the Rest of the functions should go here -->
-	<Return>
-
-	
-
-глядит«»:«»:«»:«»: стоит избушка на курьих ножках.  Вот и говорит мужик«»:«»:   Избушка, Избушка!  Стаиь к лесу задом, а ко мие передом, Избушка и воротилась.
+- «Ну, господа, котopaя жeнa скорее на ворота, с той и жить стану».</ConnectiveIncident>
+      <Task>
+        <DifficultTask />
+        <SolutionOfTask subtype="Solution">Дочь Ягишны сейчас на ворота взлезла, а Марья-царевна только чапается, а вверх не лезет.</SolutionOfTask>
+      </Task>
+      <PunishmentOfFalseHero subtype="Punished">Tyт Иван­-цapeвич взял свoe ружье и застрелил подмeнeнную жену,</PunishmentOfFalseHero>
+      <Wedding subtype="ResumedMarriage">а с Марьей-ца­ревной стал постарому 
+жить-поживать, добра наживать.</Wedding>
+    </Move>
+  </Folktale>
+  <!-- Propp says:  two moves same as 95 (pg. 145 of the _Morphology_): -->
+  <!--  I:  A9 B5 D1 E1 f1 Return-->
+  <!-- II: a6 B2-5 C Departure D1 E.neg.1 F= Return -->
+  <!-- Commentary -->
+  <!-- -->
+  <!-- -->
+  <!-- last edited 11.07.2001 -->
+  <Folktale Title="Баба Яга" NewAfanasievEditionNumber="102">
+    <Move>
+      <Preparation>
+        <InitialSituation>Жили-были муж с женой и прижили дочку;</InitialSituation>
+        <Absentation subtype="Elders">жена-то и помри.</Absentation>
+        <PrelimMisfortune>Мужик женился на другой, и от этой прижил дочь.  Вот жена и невзлюбила падчерицу;  нет житья сироте.  Думал, думал наш мужик и</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">повез  свою дочь в лес.</Villainy>
+      <ConnectiveIncident subtype="TransportationOfBanishedHero">Едет лесом -</ConnectiveIncident>
+      <DonorFunction subtype="TestOfHero" />
+      <!-- the Rest of the functions should go here -->
+      <Return>глядит«»:«»:«»:«»: стоит избушка на курьих ножках.  Вот и говорит мужик«»:«»:   Избушка, Избушка!  Стаиь к лесу задом, а ко мие передом, Избушка и воротилась.
 
 
 Идет мужик в избузку, а в ней баба-яга«»:«»: впереди голова, в одном углу нога, в другом - другая.  «»:«»:«»: Русским духом пахнет!«»:«»:«»: - говорит яга.  Мужик кланяется«»:  Баба-Яга костяная нога!  Я тебе дочку привез в услужненье«»:«»:.  - «»:«»:«»:Ну, хорошо!  Служи, служи мне, - говорит яга девушке, - а тебя за это награжу«»:«»:.
@@ -1200,36 +999,21 @@ Tyт Иван­-цapeвич взял свoe ружье и застрелил п�
 «»:«»:«»:Хам, хам, хам!  В коробе косточки гремят!«»:«»:
 
 Приехал муж;</Return>
-<Epilogue>
- тут-то жена взвыла!  Вот тебе сказка, а тебе сказка, а мне кринка масла.</Epilogue>
-
-
-		</Move>
-	</Folktale>
-<Folktale Title="Баба-Яга" NewAfanasievEditionNumber="103" AT="480A">
-		<Move>
-	<Preparation>
-		<InitialSituation>
-	Жили себе дед да баба;  
-	</InitialSituation>
-	<Absentation subtype="Elders">
-	дед овдовел и женился на другой жене, а от первой жены осталась у него девочка.  
-	
-	</Absentation>
-	<PrelimMisfortune>
-	Злая мачеха ее не полюбила, била ее и думала, как бы вовсе извести.  
-	</PrelimMisfortune>
-	</Preparation>
-	
-	<Villainy subtype="Expulsion">
-	Раз отец уехал куда-то, мачеха и говорит девочке:  «Поди к своей тетке, моей сестре, попроси у нее иголочку и ниточку - тебе рубашку сшить».  А тетка эта была баба-яга костаяная нога.
-</Villainy><Departure>
-Вот девочка не была глупа, да зашла прежде к своей родной тетке.  
-</Departure>
-<StruggleVictory subtype="FightInOpenField">
-	<Struggle/>
-	<Victory>
-  «Здравствуй, тетушка!»
+      <Epilogue>тут-то жена взвыла!  Вот тебе сказка, а тебе сказка, а мне кринка масла.</Epilogue>
+    </Move>
+  </Folktale>
+  <Folktale Title="Баба-Яга" NewAfanasievEditionNumber="103" AT="480A">
+    <Move>
+      <Preparation>
+        <InitialSituation>Жили себе дед да баба;</InitialSituation>
+        <Absentation subtype="Elders">дед овдовел и женился на другой жене, а от первой жены осталась у него девочка.</Absentation>
+        <PrelimMisfortune>Злая мачеха ее не полюбила, била ее и думала, как бы вовсе извести.</PrelimMisfortune>
+      </Preparation>
+      <Villainy subtype="Expulsion">Раз отец уехал куда-то, мачеха и говорит девочке:  «Поди к своей тетке, моей сестре, попроси у нее иголочку и ниточку - тебе рубашку сшить».  А тетка эта была баба-яга костаяная нога.</Villainy>
+      <Departure>Вот девочка не была глупа, да зашла прежде к своей родной тетке.</Departure>
+      <StruggleVictory subtype="FightInOpenField">
+        <Struggle />
+        <Victory>«Здравствуй, тетушка!»
 - «Здравствуй, родимая!  Зачем пришла?»
 - «Матушка послала к своей сестре попросить иголочку и ниточку - мне рубашку сшить».
 
@@ -1347,12 +1131,10 @@ eму ветучины	идет и пришла.
 
 
 Работница говорит: «Я те6е сколько служу, Tbы мне тряnочкинeподари­
-ла, а она мне платочек подарила».	  
-</Victory>
-</StruggleVictory>
-<PursuitRescueOfHero>
-	<PursuitOfHero subtype="FlightThroughAir">
-Бaбa-ягa костяная нога поскорей села на ступу, толкачом погоняет, по
+ла, а она мне платочек подарила».</Victory>
+      </StruggleVictory>
+      <PursuitRescueOfHero>
+        <PursuitOfHero subtype="FlightThroughAir">Бaбa-ягa костяная нога поскорей села на ступу, толкачом погоняет, по
 мелом след заметает и пустилась в погоню за девочкой. 
 
 Вот девочка при­клонилa ухо к земле и слышит, что баба-яга гонится, и уж близко, взяла
@@ -1372,13 +1154,10 @@ eму ветучины	идет и пришла.
 
 Баба-яга стала его грызть, но сколь ни стaрaлacь - нe могла
 
-прогрызть и воротилась назад.
-</PursuitOfHero>
-	<RescueOfHero subtype="HeroCarriedThroughAir"/>
-</PursuitRescueOfHero>
-
-<Wedding subtype="OtherVictory">
-дед уже приехал домой и спрашивает; «деже моя дoчкa?» - « на
+прогрызть и воротилась назад.</PursuitOfHero>
+        <RescueOfHero subtype="HeroCarriedThroughAir" />
+      </PursuitRescueOfHero>
+      <Wedding subtype="OtherVictory">дед уже приехал домой и спрашивает; «деже моя дoчкa?» - « на
 пошла к тетушк, - говорйт, мачеха немноГJпогодяи девочка и
 
 
@@ -1394,31 +1173,20 @@ Oна.~ Так и так - меня матушка посылала к тетк�
 
 Так и так рассказывает девочка. дедках
 узнал все это, ,рассердйлся на жену й расстреЛил,ее;са caмс дочкою стал,:-с
-жить да поживать да добра наживать, и 
-</Wedding>
-<Epilogue>
-Я там был, медпиво пил: по
-усам текло, в рот не попало.
-</Epilogue>
-		</Move>
-	</Folktale>
-
-
-<Folktale Title="Василиса Прекрасная" NewAfanasievEditionNumber="104" AT="480">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-	В некотором царстве жил-был купец.  Двенадцать лет жил он в супружестве и прижил только одну дочь, Василису Прекрасную.  Когда мать скончалась, девочке было восемь лет.  Умирая, купчиха призвала к себе дочку, вынула из-под одеяла кулку, отдала ей и сказала****
+жить да поживать да добра наживать, и</Wedding>
+      <Epilogue>Я там был, медпиво пил: по
+усам текло, в рот не попало.</Epilogue>
+    </Move>
+  </Folktale>
+  <Folktale Title="Василиса Прекрасная" NewAfanasievEditionNumber="104" AT="480">
+    <Move>
+      <Preparation>
+        <InitialSituation>В некотором царстве жил-был купец.  Двенадцать лет жил он в супружестве и прижил только одну дочь, Василису Прекрасную.  Когда мать скончалась, девочке было восемь лет.  Умирая, купчиха призвала к себе дочку, вынула из-под одеяла кулку, отдала ей и сказала****
 **************************
 
-После смерти жены купец потужил, как следовало, а потом стал думать, как бы опять жениться.  Он был человек хороший;*******
-
-
-
-
-	</InitialSituation>
-			</Preparation>
-			<Return>OCR from page 127
+После смерти жены купец потужил, как следовало, а потом стал думать, как бы опять жениться.  Он был человек хороший;*******</InitialSituation>
+      </Preparation>
+      <Return>OCR from page 127
 	Двенадцать лет жил он
 cyпрyжeсTвe и прижил только одну дочь, Васйлису Пре­красную. Когда мать скончалась, девочке было восемь лет.
 умирая, Купчиха призвала к себе дочку, вынула из-под
@@ -1697,37 +1465,32 @@ OCR page 132
 ееподле себя, а там и свадебку сыграли. Скоро ВОРОтился и отец Ва­
 силисы, порадовался об eе судьбе и остался Жить при дочери.Старушку
 Василиса взяла к себе, а куколку по конец Жизни сВоей всегда НОСила
-в карМане.
-	</Return>
-		</Move>
-	</Folktale>
+в карМане.</Return>
+    </Move>
+  </Folktale>
+  <!-- Propp predicts: gamma-delta-A-B-C-depart.-((D-E.neg-F.neg)«3)/(D-E-F)- -->
+  <!-- G-H-I-K-Return-Pr-(DEF)«3-Rs - -->
+  <!-- last edited 08.02.2002 -->
+  <Folktale Title="Гуси-Лебеди" NewAfanasievEditionNumber="113" AT="480" ProppConformity="Yes">
+    <Move>
+      <Preparation>
+        <InitialSituation>Жили старичок со старушкою; у них была дочка да сынок маленкий.</InitialSituation>
+        <CommandExecution>
+          <Command subtype="Interdiction">«Дочка, дочка! - говорила мать. - Мы пойдем на работу, принесем тебе булочку, сошъем платьице, купим платочек;  будь умна, береги братца, не ходи со двора».</Command>
+          <Execution subtype="Violated">
+            <!--Absentation subtype="Elders" -->
+            Старшие ушли,
+            <!--/Absentation -->
+            а дочка забыла, что ей приказывали;  
 
-<!-- Propp predicts: gamma-delta-A-B-C-depart.-((D-E.neg-F.neg)«3)/(D-E-F)- -->
-<!-- G-H-I-K-Return-Pr-(DEF)«3-Rs - -->
-<!-- last edited 08.02.2002 -->
-
-	<Folktale Title="Гуси-Лебеди" NewAfanasievEditionNumber="113" AT="480" ProppConformity="Yes">
-		<Move>
-			<Preparation>
-				<InitialSituation>Жили старичок со старушкою; у них была дочка да сынок маленкий.  	</InitialSituation>
-				<CommandExecution>
-					<Command subtype="Interdiction">
-		«Дочка, дочка! - говорила мать. - Мы пойдем на работу, принесем тебе булочку, сошъем платьице, купим платочек;  будь умна, береги братца, не ходи со двора».  </Command>
-					<Execution subtype="Violated">
-						<!--Absentation subtype="Elders" -->
-Старшие ушли,<!--/Absentation --> а дочка забыла, что ей приказывали;  
-
-посадила братца на травке под окошком, а сама побежала на улицу, загралась, загулялась.</Execution>
-				</CommandExecution>
-			</Preparation>
-			<Villainy subtype="Kidnapping">Налетели гуси-лебеди, подхватили мальчика, унесли на крылышках.</Villainy>
-			<ConsentToCounteraction> Пришла девушка, глядь - 
+посадила братца на травке под окошком, а сама побежала на улицу, загралась, загулялась.
+          </Execution>
+        </CommandExecution>
+      </Preparation>
+      <Villainy subtype="Kidnapping">Налетели гуси-лебеди, подхватили мальчика, унесли на крылышках.</Villainy>
+      <ConsentToCounteraction>Пришла девушка, глядь - 
 братца нету!</ConsentToCounteraction>
-			<Departure>
-
-			
-			
-Ахнула, кинулась туда-сюда - нету.  
+      <Departure>Ахнула, кинулась туда-сюда - нету.  
 
 Кликнула, заливалась слезами, причитывала, что худо будет от отца и матери, - братец не отклинулась!  
 
@@ -1737,43 +1500,29 @@ OCR page 132
 
 Гуcи-лeбeди дaвнo сeбe дурную славу нажили, много шкодили и малень­ких детей крадывали; 
 
-девочка угадала, что они унесли еe братца, броси­лась их догонять. </Departure>
-			<DonorFunction subtype="TestOfHero">
-
-Бежала-бежала, стоит печка. 
+девочка угадала, что они унесли еe братца, броси­лась их догонять.</Departure>
+      <DonorFunction subtype="TestOfHero">Бежала-бежала, стоит печка. 
 
 
 «Печка, печка, скажи куда гуси полетели?» 
 
-- «Съешь моего ржаного пирожка, Cкaжy». 
-</DonorFunction>
-			<AcquisitionOfMagicalAgent subtype="HelperOffersServices">
--  «О, у моего батюшки пшеничные не едятся!» 
+- «Съешь моего ржаного пирожка, Cкaжy».</DonorFunction>
+      <AcquisitionOfMagicalAgent subtype="HelperOffersServices">-  «О, у моего батюшки пшеничные не едятся!» 
 
-Печь не сказала. 
-</AcquisitionOfMagicalAgent>
-			<DonorFunction subtype="TestOfHero">
-Побежала дальше, стоит яблонь. 
+Печь не сказала.</AcquisitionOfMagicalAgent>
+      <DonorFunction subtype="TestOfHero">Побежала дальше, стоит яблонь. 
 
-«Яблонь, яблонь, скажи, куда гуси полетели?» 
-</DonorFunction>
-			<AcquisitionOfMagicalAgent subtype="HelperOffersServices">
-- «Съешь моего лесного яблока, скажу». 
+«Яблонь, яблонь, скажи, куда гуси полетели?»</DonorFunction>
+      <AcquisitionOfMagicalAgent subtype="HelperOffersServices">- «Съешь моего лесного яблока, скажу». 
 
-- «О, у моего батюшки и садовые не eдятcя!» 
-</AcquisitionOfMagicalAgent>
-			<DonorFunction subtype="TestOfHero">
-Пoбежaлa дальше, стоит молочная речка, кисельные бepeга.
+- «О, у моего батюшки и садовые не eдятcя!»</AcquisitionOfMagicalAgent>
+      <DonorFunction subtype="TestOfHero">Пoбежaлa дальше, стоит молочная речка, кисельные бepeга.
 
-«Молочнaя речка, кисельные берега, куда гуси полетели?» 
-</DonorFunction>
-			<AcquisitionOfMagicalAgent subtype="HelperOffersServices">
-- «Съешь моего простого киселика с молоком, скажу»;
+«Молочнaя речка, кисельные берега, куда гуси полетели?»</DonorFunction>
+      <AcquisitionOfMagicalAgent subtype="HelperOffersServices">- «Съешь моего простого киселика с молоком, скажу»;
 
- - «О, у моего батюшки и сливочки не едятся!»
-</AcquisitionOfMagicalAgent>
-			<Transference subtype="RouteShownToHero">
-И долго бы ей бегать по полям да бродить по лесу, да, к счастью, попался еж; 
+ - «О, у моего батюшки и сливочки не едятся!»</AcquisitionOfMagicalAgent>
+      <Transference subtype="RouteShownToHero">И долго бы ей бегать по полям да бродить по лесу, да, к счастью, попался еж; 
 
 хотела она его толкнуть, побоялась наколоться и спраши­вает: 
 
@@ -1781,92 +1530,62 @@ OCR page 132
 
 - «Вон туда-то!» ­указал. 
 
-Побежала стоит избушка на курьих ножках, стоит-поворачи­вается. </Transference>
-			<StruggleVictory subtype="Competition">
-				<Struggle>
+Побежала стоит избушка на курьих ножках, стоит-поворачи­вается.</Transference>
+      <StruggleVictory subtype="Competition">
+        <Struggle>В избушке сидит баба-яга, морда жилиная, нога глиняная;
 
-
-В избушке сидит баба-яга, морда жилиная, нога глиняная;
-
-сидит и братец на лавочке, играет золотыми яблочками. 
-</Struggle>
-				<Victory/>
-			</StruggleVictory>
-			<LiquidationOfLack subtype="ReleaseFromCaptivity">
-Увидела его сестра, подкралась, схватила и уснecла; 
-</LiquidationOfLack>
-			<PursuitRescueOfHero>
-				<PursuitOfHero subtype="FlightThroughAir">
-а гуси за нею в погоню летят; 
+сидит и братец на лавочке, играет золотыми яблочками.</Struggle>
+        <Victory />
+      </StruggleVictory>
+      <LiquidationOfLack subtype="ReleaseFromCaptivity">Увидела его сестра, подкралась, схватила и уснecла;</LiquidationOfLack>
+      <PursuitRescueOfHero>
+        <PursuitOfHero subtype="FlightThroughAir">а гуси за нею в погоню летят; 
 
 нагонят злодеи, куда деваться? 
 
 Бежит молочная речка, кисельные берега. 
 
-«Речка-матушка, спрячь меня!» - 
-</PursuitOfHero>
-				<RescueOfHero subtype="RescueFromDevourment">
-«Съешь моего киселика!» Нечего делать, съела. Речка ее посадила под бережок, гуси пролетели.  
+«Речка-матушка, спрячь меня!» -</PursuitOfHero>
+        <RescueOfHero subtype="RescueFromDevourment">«Съешь моего киселика!» Нечего делать, съела. Речка ее посадила под бережок, гуси пролетели.  
 
-Вышла она, сказа­ла: «Cпaсибo!» и опять бежит с братцем; 
-</RescueOfHero>
-				<PursuitOfHero subtype="FlightThroughAir">
-
-а гуси воротились, летят на­встречу. 
+Вышла она, сказа­ла: «Cпaсибo!» и опять бежит с братцем;</RescueOfHero>
+        <PursuitOfHero subtype="FlightThroughAir">а гуси воротились, летят на­встречу. 
 
 Что делать? Беда! Стоит яблонь. 
 
-«Яблонь, яблонь-матушка, спрячь меня!» 
- </PursuitOfHero>
-				<RescueOfHero subtype="RescueFromDevourment">
-- «Съешь мое лесное яблочко!» Поскорей съела. 
+«Яблонь, яблонь-матушка, спрячь меня!»</PursuitOfHero>
+        <RescueOfHero subtype="RescueFromDevourment">- «Съешь мое лесное яблочко!» Поскорей съела. 
 
 
 Яблонь ее заслонила веточками, прикрыла листиками; 
 
-гуси пролетели. 
-
-</RescueOfHero>
-				<PursuitOfHero subtype="AttemptToDevourHero">
-Вышла и опять бежит с братцем, а гуси увидели да за ней; совсем налетают,
+гуси пролетели.</RescueOfHero>
+        <PursuitOfHero subtype="AttemptToDevourHero">Вышла и опять бежит с братцем, а гуси увидели да за ней; совсем налетают,
 уж крыльями бьют, того и гляди  - из рук вырвут! 
 
 К счастью, на дoрo­ге печка.
 
 
- «Сударыня печкa, спрячь мeня!» 
- </PursuitOfHero>
-				<RescueOfHero subtype="RescueFromDevourment">
- - «Съешь моего ржаного пи­pожкa!»
+ «Сударыня печкa, спрячь мeня!»</PursuitOfHero>
+        <RescueOfHero subtype="RescueFromDevourment">- «Съешь моего ржаного пи­pожкa!»
   
   Девушка поскорей пирожок в рот, а сама в печь, села в устьецо. 
   
-  Гуси полетали-полетали, покричали-покричали и ни с чем улетели. 
-  
-  </RescueOfHero>
-			</PursuitRescueOfHero>
-			<Return>
-А она прибежала домой, да хорошо еще, что успела прибежать, а тот и отец и мама пришли.
-
-			</Return>
-		</Move>
-	</Folktale>
-
-
-<!-- A1 B2_4 C Departure H1 I1 K4 Return W_*  -->
-<!-- last edited 11.08.2001 -->
-
-	<Folktale Title="Никита Кожемяка" NewAfanasievEditionNumber="148">
-		<Move>
-			<Preparation>
-				<InitialSituation>Около Киева проявился змей, брал он с народа поборы 
-	 немалые:  с каждого двора по красной девке; возьмет девку да и съест ее.
-	</InitialSituation>
-			</Preparation>
-			<Villainy subtype="Kidnapping">Пришел черед идти к тому змею царской дочери.     Схватил змей царевну и потащил ее к себе в берлогу, а есть ее не стал: 
-</Villainy>
-			<ConnectiveIncident subtype="Dispatch">
-			красавица собой была, так за жену себе взял.  Полетит змей на свои промысли, а царевну завалит бревнами, чтоб не ушла.  У той царевны была собачка, увязалась с нею из дому.  Напишет, бывало, царевна записочку к батюшке с матушкой, навяжет собачке на шею;  а та побежит, куда надо, да и ответ еще принесет.  Вот раз царь с царицею и пишут к царевне: узнай, кто сильнее змея? 
+  Гуси полетали-полетали, покричали-покричали и ни с чем улетели.</RescueOfHero>
+      </PursuitRescueOfHero>
+      <Return>А она прибежала домой, да хорошо еще, что успела прибежать, а тот и отец и мама пришли.</Return>
+    </Move>
+  </Folktale>
+  <!-- A1 B2_4 C Departure H1 I1 K4 Return W_*  -->
+  <!-- last edited 11.08.2001 -->
+  <Folktale Title="Никита Кожемяка" NewAfanasievEditionNumber="148">
+    <Move>
+      <Preparation>
+        <InitialSituation>Около Киева проявился змей, брал он с народа поборы 
+	 немалые:  с каждого двора по красной девке; возьмет девку да и съест ее.</InitialSituation>
+      </Preparation>
+      <Villainy subtype="Kidnapping">Пришел черед идти к тому змею царской дочери.     Схватил змей царевну и потащил ее к себе в берлогу, а есть ее не стал:</Villainy>
+      <ConnectiveIncident subtype="Dispatch">красавица собой была, так за жену себе взял.  Полетит змей на свои промысли, а царевну завалит бревнами, чтоб не ушла.  У той царевны была собачка, увязалась с нею из дому.  Напишет, бывало, царевна записочку к батюшке с матушкой, навяжет собачке на шею;  а та побежит, куда надо, да и ответ еще принесет.  Вот раз царь с царицею и пишут к царевне: узнай, кто сильнее змея? 
 
 Царевна стала приветливей к своему змею, стала у него допытываться, кто его сильнее.  
 
@@ -1874,12 +1593,8 @@ OCR page 132
 
 Услыхала про то царевна, написала к батюшке:
 
-сыщите в городе Киеве Никиту Кожемяку да пошлите его меня из неволи выручать.
-
-
-			</ConnectiveIncident>
-			<ConsentToCounteraction>
-			Царь, получивши  такую весть, сыскал Никиту Кожемяку да сам пошел просить его, чтобы освободил его землю от лютного змея и выруцать царевну. 
+сыщите в городе Киеве Никиту Кожемяку да пошлите его меня из неволи выручать.</ConnectiveIncident>
+      <ConsentToCounteraction>Царь, получивши  такую весть, сыскал Никиту Кожемяку да сам пошел просить его, чтобы освободил его землю от лютного змея и выруцать царевну. 
 
  В ту пору Никита кожи мял, держал он в руках двенацать кож;  
  
@@ -1894,14 +1609,10 @@ OCR page 132
 
 Прослезился и сам Никита Кожемяка, на их слезы глядя.  
 
-Взял триста пуд пеньки, насмолил смолою и весь-таки обмотался, чтобы змей не съел, да и пошел на него. 
-			</ConsentToCounteraction>
-			<Departure>
-			Подходит Никита к берлогу змейной, а змей заперся и не выходит к нему.
-			</Departure>
-			<StruggleVictory subtype="FightInOpenField">
-				<Struggle>
-«Выходи лучше в чистое поле, а то и берлогу размечу!»
+Взял триста пуд пеньки, насмолил смолою и весь-таки обмотался, чтобы змей не съел, да и пошел на него.</ConsentToCounteraction>
+      <Departure>Подходит Никита к берлогу змейной, а змей заперся и не выходит к нему.</Departure>
+      <StruggleVictory subtype="FightInOpenField">
+        <Struggle>«Выходи лучше в чистое поле, а то и берлогу размечу!»
 				
 - сказал Кожемяка и стал уже двери ломать.  
 				
@@ -1925,52 +1636,37 @@ OCR page 132
 
 Ну, - говорит змей, - теперь мы всю землю раздедили!
 
-Землю разделили, - проговорил Никита, - давай море делить, а то ты скажешь, что твою воду берут.
-				</Struggle>
-				<Victory>
-				Въехал змей на середину моря, Никита Кожемяка убил и утопил его в море.
-				</Victory>
-			</StruggleVictory>
-			<Return>
-Эта борозда и теперь видна;  
+Землю разделили, - проговорил Никита, - давай море делить, а то ты скажешь, что твою воду берут.</Struggle>
+        <Victory>Въехал змей на середину моря, Никита Кожемяка убил и утопил его в море.</Victory>
+      </StruggleVictory>
+      <Return>Эта борозда и теперь видна;  
 			
 вышиною та борозда двух сажен.  
 			
 Кругом ее пашут, а борозды ее трогают, а кто не знает, от чего эта борозда, - называет ее валом.
 
-Никита Кожемяка, сделавши святое дело, не взял за работу ничего, пошел опять кожи мять.
-			</Return>
-		</Move>
-	</Folktale>
-
-
-<!-- # 247: I: alpha eta3 A10 Departure G3 M-N W* Return Recognition  -->
-<!-- last edited 09.03.2001-->
-
-	<Folktale Title="Птичий Язык" NewAfanasievEditionNumber="247" ProppConformity="Approx" AT="300">
-		<!-- Approx:  instead of U Return W* you have a slight 
+Никита Кожемяка, сделавши святое дело, не взял за работу ничего, пошел опять кожи мять.</Return>
+    </Move>
+  </Folktale>
+  <!-- # 247: I: alpha eta3 A10 Departure G3 M-N W* Return Recognition  -->
+  <!-- last edited 09.03.2001-->
+  <Folktale Title="Птичий Язык" NewAfanasievEditionNumber="247" ProppConformity="Approx" AT="300">
+    <!-- Approx:  instead of U Return W* you have a slight 
 		 reversal of functions: W* Return Recognition.  See
 		 discussion below. -->
-		<Move>
-			<Preparation>
-				<InitialSituation>
-В одном городе жил купец с купчихою, и дал им господь сына
-не по годам смышленого, по имени Василия. </InitialSituation>
-				<DeceitByVillain subtype="Other">
-				Раз как-то обедали они втроем; а над 
+    <Move>
+      <Preparation>
+        <InitialSituation>В одном городе жил купец с купчихою, и дал им господь сына
+не по годам смышленого, по имени Василия.</InitialSituation>
+        <DeceitByVillain subtype="Other">Раз как-то обедали они втроем; а над 
 столим висел в клетке соловей и так жалобно пел, что купец не вытерпел и проговорил: «Если б сыскался какой человек, который отгадал бы мне вправду, что соловей распевает и какую судьб, предвещает,
 кажись при жизни бы отдал ему половину имения, да и по смерти отказал много добра». А мальчик ему было лет шесть тогда посмотрел отцу с матерью в глаза озойливо и сказал: «Я знаю, что соловей поет, да сказать боюсь». «Говори без утайки!» пристали к нему отец с матерью, и Вася со слезами вымолвил: «Соловей предвещает, придет пора-время, будете вы мне служить: отец станет воду подавать, а мать полотeцe лицо, руки утирать».</DeceitByVillain>
-				<Absentation subtype="Elders">
- Слова эти больно огорчили Купца с купчихою, и решились они сбыть свое детище;</Absentation>
-			</Preparation>
-			<Villainy subtype="CastIntoSea">
- построили небольшую лодочку, в темную ночь положили в нее сонного мальчика и пустили в открытое море. На ту пору вылетел из клетки соловей-вещун, пpилeтeл в лодку и сел мальчику наплечо.</Villainy>
-			<Departure>
-Вот плыват лодка по морю, а навстречу ей корабль на всех
-парусах. 
-</Departure>
-			<Transference subtype="HeroRides">
-Увидал коpaбeльщик мальчика, жалко ему стало, взял его к себе, расспросил про все и обещал держать и любить его, как родного сына. На другой день говорит мальчик новому отцу: «Соловейде напевает, что подымется буря, поломает мачты, прорвет паруса; надо повпродворотить в становище».
+        <Absentation subtype="Elders">Слова эти больно огорчили Купца с купчихою, и решились они сбыть свое детище;</Absentation>
+      </Preparation>
+      <Villainy subtype="CastIntoSea">построили небольшую лодочку, в темную ночь положили в нее сонного мальчика и пустили в открытое море. На ту пору вылетел из клетки соловей-вещун, пpилeтeл в лодку и сел мальчику наплечо.</Villainy>
+      <Departure>Вот плыват лодка по морю, а навстречу ей корабль на всех
+парусах.</Departure>
+      <Transference subtype="HeroRides">Увидал коpaбeльщик мальчика, жалко ему стало, взял его к себе, расспросил про все и обещал держать и любить его, как родного сына. На другой день говорит мальчик новому отцу: «Соловейде напевает, что подымется буря, поломает мачты, прорвет паруса; надо повпродворотить в становище».
 
  Но корабельщик не послушался. 
 
@@ -1984,16 +1680,12 @@ OCR page 132
 
  На тот раз корабельщик послушался, приворотил к острову и видел, как те двенадцать кораблей, все разбойничьих, пробежали мимо.
 
-Выждал корабельщик сколько надобно сопыл дальше. Ни мало, ни много прошло времени, пристал корабль к городу Хвалынску; 
-</Transference>
-			<StruggleVictory subtype="FightInOpenField">
-				<Struggle>
-а у здеш­него короля уже несколько годов. перед дорцовым к окнам и летают и кричат ворон с вороннхою и вороненком, ни днем, ни ночью никому угомону не дают. Что ни делали, никакими хитростями не могут их от окошекотжить; даже дробь не берет! И приказано было от короля прибить на всех перекрестках и пристанях такову грамоту: e eли кто сможет отжить от дворцовых окошек ворона с воронихою, тому король отдаст в награду полцарства своего и меньшую королевну в жены; а кто возьмется за такое дело, а дела не сделает, тому отрублена будет голова. Много было охотников с королем, да все головы свои под пор положили и присталъно узнал про то Вася стал проситься у корабельщика: 
-</Struggle>
-				<Victory>
-«Позволь пойти к королю отогнать ворона с воронихою». Сколько ни уговаривал его корабельщик, никак не мог удержат. «Ну, стyпaй, говорит, да если что недоброе случится на себя пеняй!» Пришел Вася во дворец, сказал королю и велел открыть то самое окно, возле которого воронье летало. Послушал птичьего крику и говорит королю: «Ваше величество, сами видите, что летают здесь трое: ворон, жена его ворониха и сын их воро­ненок; ворона с воронихою спорят, кому принадлежит сын отцу или матери, и просят рассудить их. Ваше величество! Скажите, кому принад лежит сын?» Король говорит: «Отцу». Только изрек король то слово, ворон с вороненком полетели вправо, а ворониха влево. </Victory>
-			</StruggleVictory>
-<!-- This last sequence of functions presents 
+Выждал корабельщик сколько надобно сопыл дальше. Ни мало, ни много прошло времени, пристал корабль к городу Хвалынску;</Transference>
+      <StruggleVictory subtype="FightInOpenField">
+        <Struggle>а у здеш­него короля уже несколько годов. перед дорцовым к окнам и летают и кричат ворон с вороннхою и вороненком, ни днем, ни ночью никому угомону не дают. Что ни делали, никакими хитростями не могут их от окошекотжить; даже дробь не берет! И приказано было от короля прибить на всех перекрестках и пристанях такову грамоту: e eли кто сможет отжить от дворцовых окошек ворона с воронихою, тому король отдаст в награду полцарства своего и меньшую королевну в жены; а кто возьмется за такое дело, а дела не сделает, тому отрублена будет голова. Много было охотников с королем, да все головы свои под пор положили и присталъно узнал про то Вася стал проситься у корабельщика:</Struggle>
+        <Victory>«Позволь пойти к королю отогнать ворона с воронихою». Сколько ни уговаривал его корабельщик, никак не мог удержат. «Ну, стyпaй, говорит, да если что недоброе случится на себя пеняй!» Пришел Вася во дворец, сказал королю и велел открыть то самое окно, возле которого воронье летало. Послушал птичьего крику и говорит королю: «Ваше величество, сами видите, что летают здесь трое: ворон, жена его ворониха и сын их воро­ненок; ворона с воронихою спорят, кому принадлежит сын отцу или матери, и просят рассудить их. Ваше величество! Скажите, кому принад лежит сын?» Король говорит: «Отцу». Только изрек король то слово, ворон с вороненком полетели вправо, а ворониха влево.</Victory>
+      </StruggleVictory>
+      <!-- This last sequence of functions presents 
  itself as a violation of the predicted Proppian stucture.
  However, upon further analysis, this case is merely
  a transformation of order of what is expected:  
@@ -2002,27 +1694,19 @@ OCR page 132
  everything works out all right in the end of this 
  story.  The betrothed hero, recognized as such, 
  returns home.. -->
-			
-			<Wedding subtype="WeddingThrone">		
-После того король взял мальчика к себе, и жил он при нем в большой милости и чести; вырос и стал молодец молодцом, женился на королевне и взял в приданое полцарства. Вздумалось ему как-то поездить поразны.м местам, по чужим землям, людей посмотреть и себя показать; собрался и поехал странствовать.
-</Wedding>
-			<Return>
-В одном городе остановился он ночевать; переночевал, встал поутру и велит, чтоб подали ему умываться.  
-</Return>
-			<RecognitionOfHero>
-Хозяин принес ему воду, а хозяйка подала полотенце; пopa говоpилcя с ними Королевчич и узнал, что то были отец его и мать, заплакал от радости и упал к их ногам родительским; а после взял их с собою в город хвалынск, и стали они все вместе жить-поживать да добра наживать.</RecognitionOfHero>
-		</Move>
-	</Folktale>
-
-
-<!-- Propp says:  -->
-<!--  I:  A12-11 B-7 C Departure K8 M N Ex U w2-->
-<!-- Commentary -->
-<!-- -->
-<!-- -->
-<!-- last edited 11.08.2001 -->
-<!--  -->
-<!-- 
+      <Wedding subtype="WeddingThrone">После того король взял мальчика к себе, и жил он при нем в большой милости и чести; вырос и стал молодец молодцом, женился на королевне и взял в приданое полцарства. Вздумалось ему как-то поездить поразны.м местам, по чужим землям, людей посмотреть и себя показать; собрался и поехал странствовать.</Wedding>
+      <Return>В одном городе остановился он ночевать; переночевал, встал поутру и велит, чтоб подали ему умываться.</Return>
+      <RecognitionOfHero>Хозяин принес ему воду, а хозяйка подала полотенце; пopa говоpилcя с ними Королевчич и узнал, что то были отец его и мать, заплакал от радости и упал к их ногам родительским; а после взял их с собою в город хвалынск, и стали они все вместе жить-поживать да добра наживать.</RecognitionOfHero>
+    </Move>
+  </Folktale>
+  <!-- Propp says:  -->
+  <!--  I:  A12-11 B-7 C Departure K8 M N Ex U w2-->
+  <!-- Commentary -->
+  <!-- -->
+  <!-- -->
+  <!-- last edited 11.08.2001 -->
+  <!--  -->
+  <!-- 
       For an interesting survey of the mythological import of this tale 
       (particularly, the motif of laughter, refer to Vladimir Propp's (1997)
       _Theory and History of Folklore_ (trans. by Ariadna Y. Martin and 
@@ -2030,30 +1714,18 @@ OCR page 132
       Minnesota Press. ppg. 124-146.  "Ritual Laughter in Folktales 
       (A Propos of the Tale of the Princess Who Would Not Laugh 
       [Nesmeiana]"-->
-
-	<Folktale Title="Несмеяная-Царевна" NewAfanasievEditionNumber="297" AT="842 С « 559" ProppConformity="Yes">
-		<Move>
-			<Preparation>
-				<InitialSituation>
-
-	Как подумаешь, куда велик божий свет!  Живут в нем люди богатые и бедные, и всем им просторно, и всех их призирает и рассуждает господь.  Живут роскошные - и празднуют;  живут горемычные - и трудятся; каждому своя доля!
-	</InitialSituation>
-			</Preparation>
-			<Lack subtype="OtherFormsOfLack">	
-       В царских палатах, в княжьих чертогах, в высоком терему красовалась Несмеяная-царевна.  Какое ей было житье, какое приволье, какое роско шье!  Всего много, все есть, чего душа хочет; а никогда она не улыбалась, никогда не смеялась, словно сердце ее ничему не радовалась.
-	</Lack>
-			<ConnectiveIncident subtype="CallForHelp">
-	Горько было царю-отцу глядеть на печальную дочь.  Открывает он свои царские палаты для всех, кто полежает быть его гостем.  «Пускай, - говорит, - пытаются развеселить Несмеяну-царевну; кому удастся, тому она будет женою».  Только это вымолвил, как закипел народ у княжьих ворот!  Со всех сторон едут, идут - и царевичи и княжевичи, и бояре и дворяне, полковые и простые;  начались пиры, полились меды - царевна все не смеется.
-	</ConnectiveIncident>
-			<Move>
-				<Preparation>
-					<InitialSituation>
-				В другом конце в своем уголке жил честной работник;  по утрам он двор убирал, вечерами скот пасал, в беспрестанных был трудах. 
-
-</InitialSituation>
-				</Preparation>
-				<Lack subtype="LackOfMoney">
- Хозяин его - человек богатый, правдивый, платаю не обижал.  
+  <Folktale Title="Несмеяная-Царевна" NewAfanasievEditionNumber="297" AT="842 С « 559" ProppConformity="Yes">
+    <Move>
+      <Preparation>
+        <InitialSituation>Как подумаешь, куда велик божий свет!  Живут в нем люди богатые и бедные, и всем им просторно, и всех их призирает и рассуждает господь.  Живут роскошные - и празднуют;  живут горемычные - и трудятся; каждому своя доля!</InitialSituation>
+      </Preparation>
+      <Lack subtype="OtherFormsOfLack">В царских палатах, в княжьих чертогах, в высоком терему красовалась Несмеяная-царевна.  Какое ей было житье, какое приволье, какое роско шье!  Всего много, все есть, чего душа хочет; а никогда она не улыбалась, никогда не смеялась, словно сердце ее ничему не радовалась.</Lack>
+      <ConnectiveIncident subtype="CallForHelp">Горько было царю-отцу глядеть на печальную дочь.  Открывает он свои царские палаты для всех, кто полежает быть его гостем.  «Пускай, - говорит, - пытаются развеселить Несмеяну-царевну; кому удастся, тому она будет женою».  Только это вымолвил, как закипел народ у княжьих ворот!  Со всех сторон едут, идут - и царевичи и княжевичи, и бояре и дворяне, полковые и простые;  начались пиры, полились меды - царевна все не смеется.</ConnectiveIncident>
+      <Move>
+        <Preparation>
+          <InitialSituation>В другом конце в своем уголке жил честной работник;  по утрам он двор убирал, вечерами скот пасал, в беспрестанных был трудах.</InitialSituation>
+        </Preparation>
+        <Lack subtype="LackOfMoney">Хозяин его - человек богатый, правдивый, платаю не обижал.  
 
 Только покончился год, он ему мешок денег на стол.  «Бери, - говорит, слолько хочешь!» а сам в двери и вышел вон.  Работник подошел к столу и думает: как бы перед богом не согрешить, за труды лишнего не положить?  Выбрал одну только денежку, зажал ее в горсть да и вздумал водицы напиться, нагнулся в колодезь - денежка у него выкатилась и потинула на дно.
 
@@ -2072,42 +1744,21 @@ OCR page 132
 
 Хазяин раздумел, кого благодарить, кому спасибо говорить.  Кончился срок, миновал третий год, он кучу денег на стол:
 
-«Бери, работничек, сколько душа хочет;  твой труд, твоя и деньга!», а сам вышел вон.
-</Lack>
-				<LiquidationOfLack subtype="AcqThroughPreviousActions">
-Берет работник опять одну денежку, идет к колодезю воды испить - глядь: последняя деньга цела, и прежние две наверх выплыли.  
+«Бери, работничек, сколько душа хочет;  твой труд, твоя и деньга!», а сам вышел вон.</Lack>
+        <LiquidationOfLack subtype="AcqThroughPreviousActions">Берет работник опять одну денежку, идет к колодезю воды испить - глядь: последняя деньга цела, и прежние две наверх выплыли.  
 
-Подобрал он их, догадался, что бог его за труды напрадил;  </LiquidationOfLack>
-<Move>
-					<Preparation>
-						<InitialSituation>
-обрадовался и думает: 
+Подобрал он их, догадался, что бог его за труды напрадил;</LiquidationOfLack>
+        <Move>
+          <Preparation>
+            <InitialSituation>обрадовался и думает: 
 «Пора мне бел свет поглядеть, людей распознать!» Дал ей денежку.</InitialSituation>
-</Preparation>
-
-				<!-- Here, our generous Hero meets his Helpers ... -->
-				
-				
-					<Departure>
-					
-			
-
-
-Идет лесом,</Departure>
-
-
-<DonorFunction subtype="OtherRequests">
- ползет жук: «Ковалек, дорогой куманек!  Дай денежку; я тебе сам пригожусь!»</DonorFunction>
-
-<HeroReaction subtype="SustainedOrdeal">
-Дал и емй денежку.  
-</HeroReaction>
-
-<DonorFunction subtype="OtherRequests">
-Поплыл рекой, встретился сом: «Ковалек, дорогой куманек!  Дай денежку;  я тебе сам пригожусь!»  </DonorFunction>
-<HeroReaction subtype="Seperation">
-
-Он и тому не отказал, последнюю отдал.
+          </Preparation>
+          <!-- Here, our generous Hero meets his Helpers ... -->
+          <Departure>Идет лесом,</Departure>
+          <DonorFunction subtype="OtherRequests">ползет жук: «Ковалек, дорогой куманек!  Дай денежку; я тебе сам пригожусь!»</DonorFunction>
+          <HeroReaction subtype="SustainedOrdeal">Дал и емй денежку.</HeroReaction>
+          <DonorFunction subtype="OtherRequests">Поплыл рекой, встретился сом: «Ковалек, дорогой куманек!  Дай денежку;  я тебе сам пригожусь!»</DonorFunction>
+          <HeroReaction subtype="Seperation">Он и тому не отказал, последнюю отдал.
 
 
 
@@ -2120,70 +1771,41 @@ OCR page 132
 
 Затуманилось у него в глазах, нашел на него сон, и упал он прямо в грязь. 
 
- Откуда ни взялся сом с большим усом, за ним жучок-старичок, мышка-стрижка; все прибежали.
-</HeroReaction>
+ Откуда ни взялся сом с большим усом, за ним жучок-старичок, мышка-стрижка; все прибежали.</HeroReaction>
+          <AcquisitionOfMagicalAgent subtype="HelperOffersServices">Ухаживают, ухаживают: мышка платнице снимает, жук сапочки очищает, сом муж отгоняет.</AcquisitionOfMagicalAgent>
+        </Move>
+      </Move>
+      <LiquidationOfLack subtype="BreakingOfSpell">Глядела-глядела на их услуги Несмеяна-Царевна и сасмеялась.
 
-
-		<AcquisitionOfMagicalAgent subtype="HelperOffersServices">	
-Ухаживают, ухаживают: мышка платнице снимает, жук сапочки очищает, сом муж отгоняет. 
-
-
-					
-					</AcquisitionOfMagicalAgent>
-				</Move>
-			</Move>
-
-
-			<LiquidationOfLack subtype="BreakingOfSpell">
-
- Глядела-глядела на их услуги Несмеяна-Царевна и сасмеялась.
-
-«Кто, кто развеселил мою дочь?» - спрашивает царь.
-	</LiquidationOfLack>
-			<ClaimsOfFalseHero>Тот говорит: «Я»; другой: «Я».  -  </ClaimsOfFalseHero>
-			<RecognitionOfHero>- «Нет!» - сказала Несмеяна-царевна. - «Вон этот человек!» - и указала на работник перед царским лицом молодец-молодцом!</RecognitionOfHero>
-			<Wedding subtype="Wedding"/>
-			<Epilogue/>
-		</Move>
-	</Folktale>
-
-
-
-<!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) -->
-<!-- last edited 11.08.2001 -->
-
-
-	<Folktale Title="Девушка и Медведь" AT="480" NewAfanasievEditionNumber="557" ProppConformity="Yes">
-		<Move>
-			
-			<Preparation>
-				<InitialSituation>
-Было три сестры, младшая - дурочка. 
-</InitialSituation>
-			
-
-<Absentation subtype="Elders">
-Летом собирали они в лесу
-ягоды; </Absentation>
-</Preparation>
-	<Lack subtype="LackOfHelper">
-<!-- She finds herself lost - in desperation, deep in the 
-  wood, she cries out for help -->		
-
- старшая сестра заблудилась, шла, шла и пришла к хатке на 
+«Кто, кто развеселил мою дочь?» - спрашивает царь.</LiquidationOfLack>
+      <ClaimsOfFalseHero>Тот говорит: «Я»; другой: «Я».  -</ClaimsOfFalseHero>
+      <RecognitionOfHero>- «Нет!» - сказала Несмеяна-царевна. - «Вон этот человек!» - и указала на работник перед царским лицом молодец-молодцом!</RecognitionOfHero>
+      <Wedding subtype="Wedding" />
+      <Epilogue />
+    </Move>
+  </Folktale>
+  <!-- edited with XML Spy v3.5 NT (http://www.xmlspy.com) -->
+  <!-- last edited 11.08.2001 -->
+  <Folktale Title="Девушка и Медведь" AT="480" NewAfanasievEditionNumber="557" ProppConformity="Yes">
+    <Move>
+      <Preparation>
+        <InitialSituation>Было три сестры, младшая - дурочка.</InitialSituation>
+        <Absentation subtype="Elders">Летом собирали они в лесу
+ягоды;</Absentation>
+      </Preparation>
+      <Lack subtype="LackOfHelper">
+        <!-- She finds herself lost - in desperation, deep in the 
+  wood, she cries out for help -->
+        старшая сестра заблудилась, шла, шла и пришла к хатке на 
 куриной лапке.  
 
 Вошла в хатку и стала сестер заплакать: 
 
 «Кто в лесу, кто в бору, пpиди ко мне ночевать!»
-</Lack>
-<DonorFunction subtype="TestOfHero">
- - «Я в лесу, я в бору, приду к тебе ночевать, - отвечал огромный медведь, входя в дверь, - не бойся меня,
-влезь в пpaвoe мое ушко, вылезь в левое у нас всего будет!» 
-</DonorFunction>
-
-<HeroReaction subtype="SustainedOrdeal">
-Девица влезла медведю в правое ухо, вылезла в левое и нашла у себя за пазу­хой ключи. 
+      </Lack>
+      <DonorFunction subtype="TestOfHero">- «Я в лесу, я в бору, приду к тебе ночевать, - отвечал огромный медведь, входя в дверь, - не бойся меня,
+влезь в пpaвoe мое ушко, вылезь в левое у нас всего будет!»</DonorFunction>
+      <HeroReaction subtype="SustainedOrdeal">Девица влезла медведю в правое ухо, вылезла в левое и нашла у себя за пазу­хой ключи. 
 
 «Теперь приготовь ужин!» 
 
@@ -2217,60 +1839,36 @@ OCR page 132
 
 «Жива еще!»  
 
-- опять отозвалась мышка, и вслед за ступой пo­ летело полено. 
-</HeroReaction>
-<AcquisitionOfMagicalAgent subtype="AgentNotTransferred">
-Убил медведь красную девицу и высосал из нее кровь.
-</AcquisitionOfMagicalAgent>
-
-
-<!-- Here were have a repetition of what happened to the second sister.  
+- опять отозвалась мышка, и вслед за ступой пo­ летело полено.</HeroReaction>
+      <AcquisitionOfMagicalAgent subtype="AgentNotTransferred">Убил медведь красную девицу и высосал из нее кровь.</AcquisitionOfMagicalAgent>
+      <!-- Here were have a repetition of what happened to the second sister.  
  Details omitted for redundancy's sake -->
-<DonorFunction subtype="TestOfHero"/>
-<HeroReaction subtype="SustainedOrdeal"/>
-<AcquisitionOfMagicalAgent subtype="AgentNotTransferred">
-В другой раз заблудилась середняя сестра, и с нею случилась та же
-самая беда. </AcquisitionOfMagicalAgent>
-
-
-<!-- And here comes the Fool, our Hero -->
-<DonorFunction subtype="TestOfHero">
-Вздумала меньшая-дурочка пойти поискать своих сестер и попала в ту же хатку. 
+      <DonorFunction subtype="TestOfHero" />
+      <HeroReaction subtype="SustainedOrdeal" />
+      <AcquisitionOfMagicalAgent subtype="AgentNotTransferred">В другой раз заблудилась середняя сестра, и с нею случилась та же
+самая беда.</AcquisitionOfMagicalAgent>
+      <!-- And here comes the Fool, our Hero -->
+      <DonorFunction subtype="TestOfHero">Вздумала меньшая-дурочка пойти поискать своих сестер и попала в ту же хатку. 
 
 Медведь велел ей приготовить ужин и постлать постель. с 
 
-Сели они за стол, прибежала мышка и стала nросить каши.
-</DonorFunction>
-<HeroReaction subtype="SustainedOrdeal">
-
-Девица дала ей. 
+Сели они за стол, прибежала мышка и стала nросить каши.</DonorFunction>
+      <HeroReaction subtype="SustainedOrdeal">Девица дала ей. 
 
 «Кто с тобой paзгoвapивaeт?» - спросил медведь.
 
 «Никто!»</HeroReaction>
-<AcquisitionOfMagicalAgent subtype="AgentNotTransferred">
- Вот когда медведь улегся, мышка сказала красной Девице:
+      <AcquisitionOfMagicalAgent subtype="AgentNotTransferred">Вот когда медведь улегся, мышка сказала красной Девице:
 «Дай мне ключики, я стану за тебя бегать!»
 
  Медведь бросил жернов, мышка закричала: 
  
- «Не жива!» </AcquisitionOfMagicalAgent>
- <PursuitRescueOfHero>
-		<PursuitOfHero subtype="AttemptToDevourHero"> Медведь вскочил, стал искать убитую, не нашел и побежал в лec. 
- </PursuitOfHero>
-		<RescueOfHero subtype="TemptationWardedOff">
- Тогда мышка рассказала девице про старших сестер, дала ей ключики, у котоpых что ни попроси  -  всё дадут, и</RescueOfHero>
-	</PursuitRescueOfHero>
-
-			<Return>про­водила ее домои.
-			</Return>
-		</Move>
-	</Folktale>
-
-
-
-
-
-
-
+ «Не жива!»</AcquisitionOfMagicalAgent>
+      <PursuitRescueOfHero>
+        <PursuitOfHero subtype="AttemptToDevourHero">Медведь вскочил, стал искать убитую, не нашел и побежал в лec.</PursuitOfHero>
+        <RescueOfHero subtype="TemptationWardedOff">Тогда мышка рассказала девице про старших сестер, дала ей ключики, у котоpых что ни попроси  -  всё дадут, и</RescueOfHero>
+      </PursuitRescueOfHero>
+      <Return>про­водила ее домои.</Return>
+    </Move>
+  </Folktale>
 </Corpus>
